@@ -1,11 +1,13 @@
 # BCI
-Hey, I'm Caden. I graduated from Penn State in May 2025 with a BS in Biomedical Engineering, and currently work at Epic as a Technical Solutions Engineer.
+
+Hey, I'm Caden. I graduated from Penn State in May 2025 with a BS in BME, and currently work at Epic as a TS.
 
 During my final two years of undergrad, I became interested in neurotech, specifically the hardware and materials side of brain-computer interface (BCI) systems.
 
 This repo is my ongoing journal and portfolio for exploring BCI through personal projects, literature reviews, simulations, and (eventually) collaborative work.
 
 Topics I’m currently focusing on include:
+
 - Embedded signal acquisition systems
 - Microcontroller-based firmware for BCI prototyping
 - Electrode impedance and electrochemical analysis
